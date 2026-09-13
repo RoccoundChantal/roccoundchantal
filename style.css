@@ -9,11 +9,11 @@ body {
 
 /* --- HEADER MIT DEINEM JPG --- */
 header {
-    height: 250px;
+    height: 400px;
     background: url('images/header.jpg') no-repeat center top;
     background-size: cover;
-    border-bottom: 3px solid #444;
 }
+
 
 /* --- NAVIGATION --- */
 nav {
