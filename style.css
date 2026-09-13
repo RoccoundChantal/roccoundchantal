@@ -85,8 +85,15 @@ body {
     justify-content: center;
 }
 
+body {
+    display: flex;
+    justify-content: center;
+}
+
 #seite {
-    width: 25cm;        /* feste Breite */
-    max-width: 100%;    /* falls Bildschirm kleiner ist */
-    padding: 20px;      /* etwas Innenabstand */
+    width: 25cm;
+    max-width: 100%;
+    padding: 20px;
+}
+
 }
