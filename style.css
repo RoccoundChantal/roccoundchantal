@@ -11,10 +11,10 @@ body {
 
 header {
     height: 150px;
-    background-image: url('../images/header1.jpg'); /* WICHTIG! */
+    background-image: url('../images/header1.jpg'); /* WICHTIG */
     background-size: cover;
     background-position: center;
-    margin-top: 30px; /* Header rutscht nach unten */
+    margin-top: 40px; /* Header rutscht sauber nach unten */
 }
 
 /* --- Seitencontainer --- */
