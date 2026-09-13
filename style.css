@@ -9,9 +9,9 @@ body {
 
 /* --- HEADER MIT DEINEM JPG --- */
 header {
-    height: 30vh; /* dynamische Höhe */
+    height: 30vh;
     background: url('images/header1.jpg') no-repeat center center;
-    background-size: cover; /* passt sich automatisch an */
+    background-size: cover;
 }
 
 
