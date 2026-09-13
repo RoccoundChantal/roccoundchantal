@@ -1,1 +1,29 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #333333;
+}
+
+header {
+    height: 250px;
+    background: url('images/header.jpg') no-repeat center top;
+    background-size: cover;
+}
+
+nav {
+    background: #ffffff;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333333;
+    font-weight: bold;
+}
+
+h2 {
+    margin: 20px;
+}
 
