@@ -9,7 +9,7 @@ body {
 /* Header */
 header {
     height: 150px;
-    background-image: url('../images/header1.jpg'); /* WICHTIG: ../ weil index.html im Unterordner liegt */
+    background-image: url('../Hauptdarsteller/Bilder/header1.jpg');
     background-size: cover;
     background-position: center;
     margin-top: 20px;
