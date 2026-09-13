@@ -1,29 +1,76 @@
+/* --- Grundlayout --- */
 body {
     margin: 0;
+    padding: 0;
     font-family: Arial, sans-serif;
-    color: #333333;
+    color: #333;
+    background-color: #ffffff;
 }
 
+/* --- HEADER MIT DEINEM JPG --- */
 header {
     height: 250px;
     background: url('images/header.jpg') no-repeat center top;
     background-size: cover;
+    border-bottom: 3px solid #444;
 }
 
+/* --- NAVIGATION --- */
 nav {
     background: #ffffff;
-    padding: 10px;
+    padding: 12px;
     text-align: center;
+    border-bottom: 2px solid #ddd;
 }
 
 nav a {
-    margin: 0 10px;
+    margin: 0 12px;
     text-decoration: none;
-    color: #333333;
+    color: #333;
     font-weight: bold;
+    font-size: 16px;
 }
 
+nav a:hover {
+    color: #cc0000;
+}
+
+/* --- Überschriften --- */
 h2 {
     margin: 20px;
+    font-size: 24px;
+    color: #222;
 }
 
+/* --- Standard-Text --- */
+p {
+    margin: 20px;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+/* --- Container für Inhalte (optional) --- */
+.content {
+    margin: 20px;
+    padding: 20px;
+    background: #f7f7f7;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+}
+
+/* --- Links im Text --- */
+a {
+    color: #0066cc;
+}
+
+a:hover {
+    color: #cc0000;
+}
+
+/* --- Bilder --- */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 15px auto;
+}
