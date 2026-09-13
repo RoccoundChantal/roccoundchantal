@@ -80,3 +80,13 @@ img {
 ul {
     margin-left: 2cm;
 }
+body {
+    display: flex;
+    justify-content: center;
+}
+
+#seite {
+    width: 25cm;        /* feste Breite */
+    max-width: 100%;    /* falls Bildschirm kleiner ist */
+    padding: 20px;      /* etwas Innenabstand */
+}
