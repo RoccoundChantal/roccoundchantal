@@ -9,7 +9,7 @@ body {
 
 /* --- HEADER MIT DEINEM JPG --- */
 header {
-    height: 400px;
+    height: 500px;
     background: url('images/header.jpg') no-repeat center top;
     background-size: cover;
 }
