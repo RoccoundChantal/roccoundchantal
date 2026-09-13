@@ -9,12 +9,12 @@ body {
 
 /* --- HEADER MIT DEINEM JPG --- */
 header {
-    width: 100%;                     /* volle Bildschirmbreite */
-    height: 30vh;                    /* dynamische Höhe */
-    background: url('header1.jpg') 
-                no-repeat center center;
-    background-size: cover;          /* passt sich an */
+    width: 100%;
+    height: 30vh; /* dynamische Höhe */
+    background: url('header1.jpg') no-repeat center center;
+    background-size: cover;
 }
+
 
 
 /* --- NAVIGATION --- */
