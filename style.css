@@ -85,14 +85,8 @@ body {
     justify-content: center;
 }
 
-body {
-    display: flex;
-    justify-content: center;
-}
-
 #seite {
     width: 25cm;
     max-width: 100%;
     padding: 20px;
 }
-
