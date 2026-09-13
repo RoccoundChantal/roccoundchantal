@@ -11,7 +11,7 @@ body {
 
 header {
     height: 150px;
-    background-image: url('Bilder/header1.jpg');
+    background-image: url('images/header1.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -47,7 +47,5 @@ footer {
     color: #666;
 }
 
-    margin-top: 30px;
-    font-size: 14px;
     color: #666;
 }
