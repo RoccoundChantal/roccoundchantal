@@ -1,3 +1,12 @@
+header {
+    background-image: url('Bilder/header1.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+}
 body {
     font-family: Arial, sans-serif;
     margin: 0;
